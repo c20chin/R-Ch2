@@ -1,0 +1,2 @@
+這是中文字串。
+文本也有English Characters。
